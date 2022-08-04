@@ -1,5 +1,4 @@
-# Probability_Calculator
-# PROJECT:PROBABILITY_CALCULATOR
+# Project:Probability Calculator
 # probability
 Probability calculator finds the probability of an event occurring by calculating the ratio of the favorable outcomes to the total outcomes. Probability is a field of statistics that is used to describe the likelihood of occurrence of an event.
 
